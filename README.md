@@ -3,7 +3,7 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## 🔐 Authentication
-<img src="https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/auth.jpg" alt="Auth Screen" width="400"/>
+<img src="https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/auth.jpg" alt="Auth Screen" height="500" width="400"/>
 ![image alt](https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/auth.jpg)
 
 ## 🏠 Home Screen
