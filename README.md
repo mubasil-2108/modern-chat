@@ -2,6 +2,24 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## 🔐 Authentication
+![image alt](https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/auth.jpg)
+
+## 🏠 Home Screen
+![image alt](https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/home.jpg)
+
+## 💬 Chat Screen
+![image alt](https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/chat-screen-1.jpg)
+
+and
+
+![image alt](https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/chat-screen-2.jpg)
+
+## 👤 Profile Screen
+
+![image alt](https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/profile.jpg)
+
+
 ## Get started
 
 1. Install dependencies
