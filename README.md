@@ -4,22 +4,18 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## 🔐 Authentication
 <img src="https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/auth.jpg" alt="Auth Screen" height="400" width="200"/>
-![image alt](https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/auth.jpg)
 
 ## 🏠 Home Screen
-![image alt](https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/home.jpg)
+<img src="https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/home.jpg" alt="Auth Screen" height="400" width="200"/>
 
 ## 💬 Chat Screen
-![image alt](https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/chat-screen-1.jpg)
-
-and
-
-![image alt](https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/chat-screen-2.jpg)
+<p align="center">
+  <img src="https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/chat-screen-1.jpg?raw=true" alt="Chat Screen 1" height="400" width="200"/>
+  <img src="https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/chat-screen-2.jpg?raw=true" alt="Chat Screen 2" height="400" width="200"/>
+</p>
 
 ## 👤 Profile Screen
-
-![image alt](https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/profile.jpg)
-
+<img src="https://github.com/mubasil-2108/modern-chat/blob/92fe7a7ac0645fadebe52467ac12dea93bd74e2f/assets/images/profile.jpg" alt="Auth Screen" height="400" width="200"/>
 
 ## Get started
 
